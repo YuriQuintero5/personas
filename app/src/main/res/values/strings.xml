@@ -6,4 +6,10 @@
         <item>@string/opcion_crear</item>
         <item>@string/opcion_listar</item>
     </string-array>
+    <string name="txtCedula">Cedula</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellido">Apellido</string>
+    <string name="error_cedula">Digite su cedula</string>
+    <string name="error_nombre">Digite su nombre</string>
+    <string name="error_apellido">Digite su apellido</string>
 </resources>
