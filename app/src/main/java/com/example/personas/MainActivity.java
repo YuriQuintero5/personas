@@ -9,7 +9,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import adapterView.OnItemClickListener;
+
 
 public class MainActivity extends AppCompatActivity {
     private ListView Lista_Opciones;

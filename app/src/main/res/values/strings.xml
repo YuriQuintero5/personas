@@ -3,18 +3,22 @@
     <string name="Titulo">Crear Personas</string>
     <string name="opcion_crear">Crear</string>
     <string name="opcion_listar">Listar</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
     <string-array name="opciones">
         <item>@string/opcion_crear</item>
         <item>@string/opcion_listar</item>
     </string-array>
+
     <string name="Cedula">Cedula</string>
     <string name="Nombre">Nombre</string>
     <string name="Apellido">Apellido</string>
     <string name="error_cedula">Digite su cedula</string>
     <string name="error_nombre">Digite su nombre</string>
-    <string name="mensaje_guardado">Persona guardada corretamente</string>
     <string name="error_apellido">Digite su apellido</string>
-    <string name="Numero">No</string>
+    <string name="mensaje_guardado">Persona guardada corretamente</string>
+    <string name="numero">No.</string>
+
 
 
 </resources>
